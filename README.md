@@ -1,1 +1,1 @@
-# Medical_Report
+VitalImage Analytics is a Streamlit-based medical AI application that uses Google's Gemini 1.5 Flash model to generate intelligent, structured reports from uploaded medical images (X-rays, MRIs, etc.). The app produces a four-part diagnostic output: Detailed Analysis, Findings, Recommendations, and Treatment Suggestions. It includes safety filters, image quality checks, and ends with a mandatory medical disclaimer to ensure ethical use# Medical_Report
